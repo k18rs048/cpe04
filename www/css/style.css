@@ -70,5 +70,6 @@
     
     button{
       color: blue;
+      font-style: italic;
     }
     input[type=number] {text-align: right;}
